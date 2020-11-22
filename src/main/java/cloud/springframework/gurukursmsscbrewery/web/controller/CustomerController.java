@@ -3,6 +3,7 @@ package cloud.springframework.gurukursmsscbrewery.web.controller;
 import cloud.springframework.gurukursmsscbrewery.web.model.BeerDto;
 import cloud.springframework.gurukursmsscbrewery.web.model.CustomerDto;
 import cloud.springframework.gurukursmsscbrewery.web.services.CustomerService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

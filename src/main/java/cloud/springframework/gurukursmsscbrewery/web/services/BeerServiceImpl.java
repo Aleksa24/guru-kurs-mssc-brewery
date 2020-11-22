@@ -2,6 +2,8 @@ package cloud.springframework.gurukursmsscbrewery.web.services;
 
 import cloud.springframework.gurukursmsscbrewery.web.model.BeerDto;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

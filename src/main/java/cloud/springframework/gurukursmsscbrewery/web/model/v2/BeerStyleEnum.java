@@ -1,5 +1,5 @@
 package cloud.springframework.gurukursmsscbrewery.web.model.v2;
 
 public enum BeerStyleEnum {
-    LOGER,PISLNER,ALE,STOUT,GOSE,IPA
+    LOGER,PISLNER,STOUT,GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON
 }
